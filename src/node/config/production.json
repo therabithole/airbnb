@@ -1,0 +1,6 @@
+{
+  "name": "Platform Title {Production Env}  - Production config",
+  "mail": {
+    "host": "prod-mail-server"
+  }
+}

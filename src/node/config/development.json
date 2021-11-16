@@ -1,0 +1,6 @@
+{
+  "name": "Platform Title {Development Env}  - development config",
+  "mail": {
+    "host": "dev-mail-server"
+  }
+}
