@@ -1,17 +1,35 @@
-<h1> SaaS-based online marketplace </h1>
+<h1> SaaS-based Online Marketplace </h1>
 
-Combiing Airbnb - Book Hotels, Cottages, Farmstays.
+Inspired by likes of AirBnB, TripAdvisor and Booking.com.
 
- <h2> Tech Stack <h2>
+<h2>  Features: </h2> 
+
+You can rent an accomodation such as hotels, cottages, Farmstays, guests houses, cabins, luxury homes. 
+
+ <h3> Pattern </h3>
   
-  React.
-  GraphQL
-  Redux
-  Node.js
-  Typescript.
+ <p> 
+ <ul> 
+  <li> React 16 ^ . </li> 
+   <li>  GraphQL. </li> 
+    <li> Redux. </li> 
+    <li>  Node.js. </li> 
+    <li>  Typescript.</li> 
+ </ul> </p>
+ 
+  
+ 
+ 
 
 
  Nitty gritties:
- SCSS
- React hooks
+<p> 
+ <ul> 
+  <li> SCSS </li> 
+   <li>  Hooks </li> 
+    <li> Redux. </li> 
+    <li>  Node.js. </li> 
+    <li>  Typescript.</li> 
+ </ul> </p>
+ 
   
