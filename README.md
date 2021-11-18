@@ -1,3 +1,17 @@
-<h1> Platform merging AirBnB + Booking.com /h1>
+<h1> SaaS-based online marketplace </h1>
 
-Airbnb - Book Hotels, Cottages, Farmstays.
+Combiing Airbnb - Book Hotels, Cottages, Farmstays.
+
+ <h2> Tech Stack <h2>
+  
+  React.
+  GraphQL
+  Redux
+  Node.js
+  Typescript.
+
+
+ Nitty gritties:
+ SCSS
+ React hooks
+  
