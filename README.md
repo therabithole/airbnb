@@ -1,3 +1,3 @@
-<h1> Platform to Book Rental and Holiday Accomodation </h1>
+<h1> Platform merging AirBnB + Booking.com /h1>
 
 Airbnb - Book Hotels, Cottages, Farmstays.
