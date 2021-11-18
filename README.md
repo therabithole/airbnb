@@ -4,7 +4,7 @@ Inspired by likes of AirBnB, TripAdvisor and Booking.com.
 
 <h2>  Features: </h2> 
 
-You can rent an accomodation such as hotels, cottages, Farmstays, guests houses, cabins, luxury homes. 
+You can rent and book an accomodation such as hotels, cottages, Farmstays, guests houses, cabins, luxury homes. 
 
  <h3> Pattern </h3>
   
